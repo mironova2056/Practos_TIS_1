@@ -1,0 +1,15 @@
+{
+    "url":"https://dev.profteam.su/",
+    "searchField": "веб",
+    "range1True": "15",
+    "range2True": "20000",
+    "range1False": "-3",
+    "range2False": "-5",
+    "selectScheduleOption1":"Любой",
+    "selectScheduleOption2":"Полная занятость",
+    "selectScheduleOption3":"Не полная занятость",
+    "selectTypeOption1":"Любой",
+    "selectTypeOption2":"Очный",
+    "selectTypeOption3":"Дистант",
+    "selectTypeOption4":"Совмещенный"
+}
